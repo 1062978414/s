@@ -1,0 +1,1 @@
+wget speed.bestip.one/__down?bytes=500000000000000
